@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "img",
+			"path": "..\\movie-website-master\\movie-website-master\\img"
+		},
+		{
+			"name": "Movie-Booking-App JS",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Movie-Booking-App JS"
+	}
+}
